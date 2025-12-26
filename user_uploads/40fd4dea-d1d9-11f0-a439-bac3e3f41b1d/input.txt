@@ -1,0 +1,4 @@
+file 'bholenath.jpeg'
+duration 1
+file 'bholenath.jpeg'
+duration 1
